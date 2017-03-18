@@ -1,0 +1,11 @@
+.footTo{
+    background-color: greenyellow;
+    color: purple;
+    padding-left:20px;
+    padding-top:3px;
+    padding-bottom:3px;
+}
+
+.footerTo h1{
+    font-size:15px;
+}
